@@ -1,5 +1,5 @@
 #aside-content .card-widget#card-wechat {
-  background: #57bd6a;
+  background: rgba(3, 0, 0, 0);
   display: flex;
   justify-content: center;
   align-content: center;
@@ -20,7 +20,7 @@
 
 #flip-wrapper {
   position: relative;
-  width: 235px;
+  width: 500px;
   height: 110px;
   z-index: 1;
 }
