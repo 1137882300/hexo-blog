@@ -1,2 +1,1 @@
-# crab-blog-second
-博客
+# crab-blog
