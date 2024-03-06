@@ -90,9 +90,9 @@ author_status:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
-    per_page: 6
+    per_page: 10
   tags:
     # - 前端
     # - Hexo
@@ -314,7 +314,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: # Twikoo/Waline
+  use: Twikoo,Gitalk # Twikoo/Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -360,9 +360,9 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://comment.funning.top/
   region:
-  visitor: false
+  visitor: true
   option:
 
 # Artalk
