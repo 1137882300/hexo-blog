@@ -147,7 +147,7 @@ favicon: /img/favicon2.png
 
 # Avatar (头像)
 avatar:
-  img: https://gitee.com/coderzane/images/raw/master/images/202312271155254.jpg
+  img: https://cdn.jsdelivr.net/gh/1137882300/images@master/images/fav.jpeg
   effect: false
 
 # Disable all banner image
@@ -538,6 +538,8 @@ footer:
       enable: false
       link: /copyright
     linkList:
+      - link: https://home-blog.funning.top/
+        text: 时光
       - link: https://chat.funning.top
         text: ChatGPT
       # - link: https://image.anheyu.com
