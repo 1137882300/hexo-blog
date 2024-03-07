@@ -30,12 +30,19 @@ nav:
       item:
         - name: 博客
           link: https://blog.funning.top/
-          icon: /img/favicon.ico
-    - title: 项目
+          icon: /img/favicon2.png
+        - name: 今日热榜
+          link: https://hot.funning.top/
+          icon: https://hot.funning.top/ico/favicon.png
+    - title: AI
       item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
+        - name: gemini
+          link: https://gemini.funning.top/
+          icon: https://hot.funning.top/ico/favicon.png
+        - name: gpt
+          link: https://lobe-chat.funning.top/
+          icon: https://hot.funning.top/ico/favicon.png
+
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
