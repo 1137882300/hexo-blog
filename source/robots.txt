@@ -11,5 +11,5 @@ Disallow: /*.js
 
 Disallow: manifest.json
 
-Sitemap: https://www.funning.top/sitemap.xml
-Sitemap: https://www.funning.top/baidusitemap.xml
+Sitemap: https://blog.funning.top/sitemap.xml
+Sitemap: https://blog.funning.top/baidusitemap.xml
