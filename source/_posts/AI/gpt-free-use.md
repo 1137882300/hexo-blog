@@ -125,5 +125,9 @@ Copilot 的特殊功能包括：
 
 ![](https://cdn.jsdelivr.net/gh/1137882300/images@master/images/coze.png)
 
+## mychandler AI
+> https://mychandler.bet/chat
 
+不仅可以使用chatgpt-4，还能使用claude3
 
+![](https://img.funning.top/mychandler.png)
