@@ -612,11 +612,11 @@ google_adsense:
 
 site_verification:
   - name: google-site-verification
-    content: xxx
+    content: rNFdBQtErX3AI0N6rEOzE_1zgiWVH5VAqhezwK7IcvQ
   - name: baidu-site-verification
     content: codeva-IrojKhEmig
-  - name: msvalidate.01
-    content: xxx
+  - name: sogou_site_verification
+    content: ddL6MYyzPq
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
