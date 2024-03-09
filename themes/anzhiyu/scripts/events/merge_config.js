@@ -13,7 +13,7 @@ hexo.extend.filter.register(
       highlight_shrink: false,
       highlight_height_limit: false,
       code_word_wrap: false,
-      social: null,
+      social: true,
       favicon: "/favicon.ico",
       avatar: {
         img: "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg",
