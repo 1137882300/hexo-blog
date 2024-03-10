@@ -28,8 +28,8 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 博客
-          link: https://blog.funning.top/
+        - name: 导航栏
+          link: https://nav.funning.top/
           icon: /img/favicon2.png
         - name: 今日热榜
           link: https://hot.funning.top/
