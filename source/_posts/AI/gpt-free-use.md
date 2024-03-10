@@ -11,7 +11,7 @@ tags:
 description: 免费使用的8个GPT-4的网站
 date: 2024-03-03
 keywords: 'AI,人工智能,chatgpt,gpt-4,gpt-3.5'
-cover: https://cdn.jsdelivr.net/gh/1137882300/images@master/images/bg1.png
+cover: https://img.funning.top/yidali.png
 abbrlink: 112231
 ---
 
