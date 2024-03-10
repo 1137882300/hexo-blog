@@ -9,7 +9,7 @@ tags:
 description: elasticsearch 核心概念
 date: 2024-03-08
 keywords: 'es,elasticsearch,搜索,索引'
-cover: https://img.funning.top/es1.png
+cover: https://img.funning.top/moxige.png
 abbrlink: 112232
 ---
 
