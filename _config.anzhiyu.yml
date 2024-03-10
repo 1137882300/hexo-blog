@@ -825,7 +825,7 @@ aside:
 
   card_announcement:
     enable: true
-    content: 欢迎来看我的家园鸭~
+    content: 如果阅读过程中遇到了问题，请及时评论或者留言，看到了会在第一时间给出回复。
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/10/20/65322536707be.gif
