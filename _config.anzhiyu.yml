@@ -825,7 +825,7 @@ aside:
 
   card_announcement:
     enable: true
-    content: 如果阅读过程中遇到了问题，请及时评论或者留言，看到了会在第一时间给出回复。
+    content: <div style="text-indent:2em">如果阅读过程中遇到了问题，请及时评论或者留言，看到了会在第一时间给出回复。</div>
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/10/20/65322536707be.gif
@@ -1247,10 +1247,13 @@ dynamicEffect:
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/bb/showbb_in_index.css">
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
 
   bottom:
+    - <script src="/js/custom.js"></script>
     # 自定义js
     # - <script src="/js/xxx"></script>
 
