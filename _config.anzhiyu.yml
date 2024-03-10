@@ -34,6 +34,9 @@ nav:
         - name: 今日热榜
           link: https://hot.funning.top/
           icon: https://hot.funning.top/ico/favicon.png
+        - name: 旧版博客
+          link: https://www.funning.top/
+          icon: /img/favicon2.png
     - title: AI
       item:
         - name: gemini
