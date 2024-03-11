@@ -36,6 +36,11 @@ abbrlink: 112233
 
 # 执行顺序
 
-StaticMethodMatcherPointcut
 AbstractBeanFactoryPointcutAdvisor
+StaticMethodMatcherPointcut
+
+MethodInterceptor
+
+
+调用接口时：
 MethodInterceptor

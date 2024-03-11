@@ -266,7 +266,7 @@ hexo.extend.filter.register(
         publish_date: null,
       },
       newest_comments: {
-        enable: false,
+        enable: true,
         sort_order: null,
         limit: 6,
         storage: 10,
