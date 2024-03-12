@@ -493,7 +493,7 @@ footer:
          link: https://space.bilibili.com
          icon: anzhiyu-icon-bilibili
        - title: 抖音
-         link: https://v.douyin.com/DwCpMEy/
+         link: https://v.douyin.com/
          icon: anzhiyu-icon-tiktok
        - title: CC
          link: /copyright
@@ -545,8 +545,8 @@ footer:
         text: 时光
       - link: https://chat.funning.top
         text: ChatGPT
-      # - link: https://image.anheyu.com
-      #   text: 图床
+      - link: https://img.funning.top/
+        text: 图床
       # - link: https://beian.miit.gov.cn/
       #   text: 湘ICP备-xxxxxxx号
     subTitle:
