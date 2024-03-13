@@ -543,10 +543,12 @@ footer:
     linkList:
       - link: https://home-blog.funning.top/
         text: 时光
-      - link: https://chat.funning.top
-        text: ChatGPT
+      - link: https://mail.qq.com/
+        text: QQ邮箱
       - link: https://img.funning.top/
         text: 图床
+      - link: https://chat.funning.top
+        text: ChatGPT
       # - link: https://beian.miit.gov.cn/
       #   text: 湘ICP备-xxxxxxx号
     subTitle:
