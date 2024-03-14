@@ -28,18 +28,18 @@ nav:
   menu:
     - title: 网页
       item:
+        - name: V1线路
+          link: https://www.funning.top/
+          icon: /img/favicon2.png
         - name: 导航栏
           link: https://nav.funning.top/
-          icon: /img/favicon2.png
+          icon: https://images.emojiterra.com/openmoji/v15.0/256px/1f9ed.png
         - name: 今日热榜
           link: https://hot.funning.top/
           icon: https://hot.funning.top/ico/favicon.png
-        - name: 旧版博客
-          link: https://www.funning.top/
-          icon: /img/favicon2.png
     - title: AI
       item:
-        - name: gemini
+        - name: gemini-pro
           link: https://gemini.funning.top/
           icon: https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png
         - name: lobe-chat
