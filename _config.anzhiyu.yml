@@ -41,10 +41,13 @@ nav:
       item:
         - name: gemini
           link: https://gemini.funning.top/
-          icon: https://hot.funning.top/ico/favicon.png
-        - name: gpt
+          icon: https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png
+        - name: lobe-chat
           link: https://lobe-chat.funning.top/
-          icon: https://hot.funning.top/ico/favicon.png
+          icon: https://registry.npmmirror.com/@lobehub/assets-favicons/1.4.0/files/assets/favicon.ico
+        - name: next-chat
+          link: https://chat.funning.top
+          icon: https://chat.funning.top/favicon.ico
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
