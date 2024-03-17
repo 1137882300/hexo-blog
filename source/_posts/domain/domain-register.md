@@ -24,6 +24,10 @@ abbrlink: 112230
 
 ## 目前可以申请
 
+> `nom.za`
+
+二级域名，永久免费，`可托管cf`，地址：https://secure.nom.za/
+
 > `cloudns.eu.org`
 
 二级域名，永久免费，现在注册后缀可能会变，`可托管cf`。
