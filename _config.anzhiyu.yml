@@ -1263,6 +1263,8 @@ inject:
 
   bottom:
     - <script src="/js/custom.js"></script>
+    - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    - <script>LA.init({id:"3HpYY76yP9aU49Wd",ck:"3HpYY76yP9aU49Wd"})</script>
     # 自定义js
     # - <script src="/js/xxx"></script>
 
