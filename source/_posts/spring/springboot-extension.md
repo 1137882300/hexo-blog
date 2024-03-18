@@ -10,7 +10,7 @@ tags:
 description:
 date: 2024-03-11
 keywords: 'SpringBoot,spring,扩展,汇总,总结'
-cover:
+cover: https://img.funning.top/yingguo.png
 abbrlink: 112233
 ---
 
