@@ -74,6 +74,10 @@ abbrlink: 112230
 
 数字域名，一年5元，十年50元，续费不变，`可托管cf`。
 
+> `free.tr`
+
+便宜域名，一年1.5元，续费不涨价，国外厂商域名注册服务商：https://regtons.com/en/register  `可托管cf`。
+
 > `publicvm.com`
 
 子域名，`不能托管cf`，免费一年 。
