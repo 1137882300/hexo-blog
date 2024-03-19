@@ -1,15 +1,15 @@
 ---
-title:
-date:
+title: 关于本站
+date: 2024-03-19
 updated:
 type: "about"
 comments:
 description:
 keywords:
-top_img: https://cdn.jsdelivr.net/gh/1137882300/images@master/images%E6%84%8F%E5%A4%A7%E5%88%A9%202.png
+top_img: false
 mathjax:
 katex:
-aside:
+aside: false
 aplayer:
 highlight_shrink:
 random:

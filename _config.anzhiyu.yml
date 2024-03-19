@@ -997,7 +997,7 @@ note:
 
 icons:
   ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
-  fontawesome: false #是否启用fontawesome6图标
+  fontawesome: true #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
 # other
@@ -1263,6 +1263,9 @@ inject:
 
   bottom:
     - <script src="/js/custom.js"></script>
+    - <link rel="stylesheet" href="/css/about.css"> # 关于页面 - 打赏弹窗样式
+    - <script type="text/javascript" src ="/js/reward.js" ></script> # 关于页面 - 打赏充电JS
+    - <script src="https://cdn1.tianli0.top/npm/sweetalert2@11.6.16/dist/sweetalert2.all.min.js"></script> # 关于页面 - 打赏弹窗逻辑
     - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
     - <script>LA.init({id:"3HpYY76yP9aU49Wd",ck:"3HpYY76yP9aU49Wd"})</script>
     # 自定义js
@@ -1289,6 +1292,7 @@ CDN:
   custom_format: # https://npm.elemecdn.com/${name}@latest/${file}
 
   option:
+    countup_js: /js/countup.js
     # main_css:
     # main:
     # utils:
