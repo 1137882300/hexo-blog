@@ -1256,6 +1256,8 @@ dynamicEffect:
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+    - <link rel="stylesheet" href="/css/essay_page.css">
+    - <link rel="stylesheet" href="/css/about.css">
 #    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 #    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/bb/showbb_in_index.css">
     # 自定义css
@@ -1263,11 +1265,13 @@ inject:
 
   bottom:
     - <script src="/js/custom.js"></script>
-    - <link rel="stylesheet" href="/css/about.css"> # 关于页面 - 打赏弹窗样式
+    # 关于页面 - 打赏弹窗样式
     - <script type="text/javascript" src ="/js/reward.js" ></script> # 关于页面 - 打赏充电JS
     - <script src="https://cdn1.tianli0.top/npm/sweetalert2@11.6.16/dist/sweetalert2.all.min.js"></script> # 关于页面 - 打赏弹窗逻辑
     - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
     - <script>LA.init({id:"3HpYY76yP9aU49Wd",ck:"3HpYY76yP9aU49Wd"})</script>
+    - <script async data-pjax src="/js/essay.js"></script> # 即刻逻辑文件
+    - <script async data-pjax src="/js/waterfall.js"></script> # 即刻瀑布流JS
     # 自定义js
     # - <script src="/js/xxx"></script>
 

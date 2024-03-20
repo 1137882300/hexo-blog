@@ -2,11 +2,26 @@
   essay_list:
     - content: 成功不是最终的，失败不是致命的，勇气继续前进才是最重要的。
       date: 2024-03-15
+      from: iPhone XR
+      video:
+        player: /video/1.mp4
     - content: 人生短暂，要有所作为。
       date: 2024-03-15
+      from: iPhone XR
+      video:
+        bilibili: //player.bilibili.com/player.html?aid=913951276&bvid=BV1RM4y1p75T&cid=1211165267&page=1
     - content: 你不可能改变过去，但你可以改变未来。
       date: 2024-03-15
+      from: iPhone XR
+      image:
+        - https://s11.ax1x.com/2023/05/11/p9sKEh8.jpg
+
     - content: 生活不是等待风暴过去，而是要学会在雨中跳舞。
       date: 2024-03-15
+      aplayer:
+        server: netease
+        id: 1949516216
     - content: 成功的关键是相信自己能够成功。
       date: 2024-03-15
+      from: Macbook Pro
+      link: https://github.com/yife68/Hexo-Theme-Melancholia
