@@ -6,7 +6,7 @@ type: "categories"
 comments:
 description:
 keywords:
-top_img: https://img.funning.top/zhili.png
+top_img: https://img.funning.top/menggu1.png
 mathjax:
 katex:
 aside:
