@@ -6,7 +6,7 @@ type: "tags"
 comments:
 description:
 keywords:
-top_img: https://img.funning.top/yidali.png
+top_img: false
 mathjax:
 katex:
 aside:
