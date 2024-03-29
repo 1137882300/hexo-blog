@@ -837,8 +837,8 @@ aside:
     content: <div style="text-indent:2em">如果阅读过程中遇到了问题，请及时评论或者留言，看到了会在第一时间给出回复。</div>
   card_weixin:
     enable: true
-    face: https://bu.dusays.com/2023/10/20/65322536707be.gif
-    backFace: https://bu.dusays.com/2023/10/20/6532253ed8d0d.gif
+    face: https://img.funning.top/smallcats.gif
+    backFace: https://img.funning.top/cool.gif
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
