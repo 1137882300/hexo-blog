@@ -14,7 +14,7 @@ tags:
   - kimi
   - LangChain
 description: LangChain 调用 MoonshotAI,国内替换 OpenAI 方案。
-date: 2023-03-29
+date: 2024-03-29
 keywords: 'AI,MoonshotAI,OpenAI,LangChain,月之暗面'
 cover:
 abbrlink: 112236
@@ -53,24 +53,14 @@ LangChain是一个开发由语言模型驱动的应用程序的框架。它使�
 
 > 安装必要的依赖包
 
-```ipynb
-!pip install -U langchain-openai
-!pip install python-dotenv
-!pip install --upgrade langchain
-!pip install --upgrade httpx openai tiktoken
-!pip install httpx==0.24.0 typing-extensions==4.5.0 pydantic==2.5.2
-!pip install --upgrade httpx typing-extensions pydantic
-!pip show chromadb
-!pip install --upgrade chromadb==0.4.24
-!pip install langchain docarray tiktoken
-!pip install "langchain[docarray]"
-!pip install --upgrade qdrant-client
-!pip install --upgrade pydantic
+```python
+pip install -U langchain
+pip install -U langchain-openai
 ```
 
 > MoonShotAI 完全兼容 OpenAI 接口
 
-```ipynb
+```python
 from langchain_openai import ChatOpenAI
 
 llm = ChatOpenAI(
@@ -86,7 +76,7 @@ print(llm.invoke("请问你是我的小美吗?"))
 content='您好！我是MoonshotAI，一款由Moonshot Corp开发的人工智能助手。我可以帮助您回答问题和解决问题。请问有什么我可以帮助您的？' response_metadata={'token_usage': {'completion_tokens': 31, 'prompt_tokens': 11, 'total_tokens': 42}, 'model_name': 'moonshot-v1-8k', 'system_fingerprint': None, 'finish_reason': 'stop', 'logprobs': None}
 ```
 
-```ipybn
+```python
 import os
 
 os.environ["OPENAI_API_KEY"] = 'api-key'
@@ -109,7 +99,7 @@ llm = ChatOpenAI(
 
 > 后面就可以直接使用 LangChain 的相关依赖和方法了，下面演示一个例子
 
-```ipybn
+```python
 from langchain.prompts import PromptTemplate
 
 # Basic Example of a Prompt.
