@@ -11,7 +11,7 @@ tags:
 description: 每日最新 AI 新闻
 date: 2024-04-01
 keywords: 'AI,news'
-cover:
+cover: https://img.funning.top/suwu2.png
 abbrlink: 112238
 ---
 
