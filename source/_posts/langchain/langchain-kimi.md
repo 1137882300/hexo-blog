@@ -16,7 +16,7 @@ tags:
 description: LangChain 调用 MoonshotAI,国内替换 OpenAI 方案。
 date: 2024-03-29
 keywords: 'AI,MoonshotAI,OpenAI,LangChain,月之暗面'
-cover:
+cover: https://img.funning.top/gubabilun.png
 abbrlink: 112236
 ---
 

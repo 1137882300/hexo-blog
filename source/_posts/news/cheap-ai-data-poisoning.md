@@ -9,7 +9,7 @@ tags:
   - AI
   - 新闻
 description: 每日最新 AI 新闻
-date: 2023-04-01
+date: 2024-04-01
 keywords: 'AI,news'
 cover:
 abbrlink: 112238

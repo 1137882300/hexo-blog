@@ -15,9 +15,9 @@ tags:
   - LangChain
   - chain
 description:
-date: 2023-04-01
+date: 2024-04-01
 keywords: 'AI,MoonshotAI,OpenAI,LangChain,月之暗面,chain,lcel'
-cover:
+cover: https://img.funning.top/mangu.png
 abbrlink: 112237
 ---
 
