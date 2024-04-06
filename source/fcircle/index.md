@@ -2,7 +2,7 @@
 title:
 date:
 updated:
-type:
+type: "archives"
 comments:
 description:
 keywords:
