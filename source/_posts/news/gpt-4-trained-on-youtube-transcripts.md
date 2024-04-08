@@ -1,5 +1,5 @@
 ---
-title: GPT-4 trained on YouTube transcripts GPT-4 在 YouTube 成绩单上进行训练
+title: GPT-4 trained on YouTube transcripts GPT-4 在 YouTube 记录上进行训练
 shortTitle:
 categories:
   - [ AI ]
