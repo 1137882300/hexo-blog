@@ -6,7 +6,7 @@ type: "categories"
 comments:
 description:
 keywords:
-top_img: false
+top_img: https://img.funning.top/bajisitan.png
 mathjax:
 katex:
 aside:
