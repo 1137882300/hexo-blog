@@ -14,7 +14,7 @@ tags:
 description:
 date: 2024-04-09
 keywords: 'AI,prompt,LangChain'
-cover:
+cover: https://img.funning.top/bolan.png
 abbrlink: 112244
 ---
 
