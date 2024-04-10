@@ -28,8 +28,11 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: V1线路
+        - name: V1版本
           link: https://www.crab666.cloudns.biz/
+          icon: /img/favicon2.png
+        - name: 3号线路
+          link: http://funning.x10.mx
           icon: /img/favicon2.png
         - name: 导航栏
           link: https://nav.funning.top/
