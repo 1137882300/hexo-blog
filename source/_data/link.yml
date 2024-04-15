@@ -9,10 +9,14 @@
 - class_name: 網站
   class_desc: 值得推薦的網站
   link_list:
+    - name: Langchain
+      link: https://python.langchain.com/
+      avatar: https://python.langchain.com/img/brand/favicon.png
+      descr: AI 框架
     - name: Youtube
       link: https://www.youtube.com/
       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
+      descr: 全球最大的视频网站
     - name: Weibo
       link: https://www.weibo.com/
       avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
