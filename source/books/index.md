@@ -2,7 +2,7 @@
 title:
 date:
 updated:
-type: "bangumis"
+type:
 comments:
 description:
 keywords:
