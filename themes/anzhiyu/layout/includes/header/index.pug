@@ -18,11 +18,17 @@ if !theme.disable_top_img && page.top_img !== false
     - is_post() ? isHomeClass = 'post-bg' : isHomeClass
     - var bg_img_v2 = `background-image: url(${bg_img}); background-size: cover; background-position: center;`
   else
+    - var bg_img_v2 = false
     - var isHomeClass = 'not-top-img'
 
   if is_archive()
     - var bg_img_v2 = false
     - var isHomeClass = 'not-top-img'
+
+  if isHomeClass === 'not-home-page'
+    - var bg_img_v2 = false
+    - var isHomeClass = 'not-top-img'
+
 else
   - var top_img = false
   - var isHomeClass = 'not-top-img'
@@ -60,5 +66,5 @@ header#page-header(class=`${isHomeClass}` style=bg_img_v2)
       #scroll-down
         i.anzhiyufont.anzhiyu-icon-angle-down.scroll-down-effects
     else
-      #page-site-info
-        h1#site-title=site_title
+      //#page-site-info
+      //  h1#site-title=site_title
