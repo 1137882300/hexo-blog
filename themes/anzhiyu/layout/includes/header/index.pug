@@ -19,6 +19,10 @@ if !theme.disable_top_img && page.top_img !== false
     - var bg_img_v2 = `background-image: url(${bg_img}); background-size: cover; background-position: center;`
   else
     - var isHomeClass = 'not-top-img'
+
+  if is_archive()
+    - var bg_img_v2 = false
+    - var isHomeClass = 'not-top-img'
 else
   - var top_img = false
   - var isHomeClass = 'not-top-img'
