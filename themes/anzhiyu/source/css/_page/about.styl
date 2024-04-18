@@ -8,6 +8,24 @@
 .icat-author-box
   position: relative
   margin: 34px 0 62px
+	.author-tag-left
+	  display: flex;
+	  flex-direction: column;
+	  align-items: flex-end;
+	  +maxWidth768()
+	    display: none
+	  .author-tag:first-child,
+	  .author-tag:last-child
+	    margin-right: -16px
+	.author-tag-right
+	  display: flex;
+	  flex-direction: column;
+	  align-items: flex-start;
+	  +maxWidth768()
+	    display: none
+	  .author-tag:first-child,
+	  .author-tag:last-child
+	    margin-left: -16px
 
   @media screen and (max-width: 768px)
     margin: 34px 0 44px

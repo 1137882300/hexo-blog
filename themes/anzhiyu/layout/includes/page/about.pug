@@ -1,5 +1,13 @@
 #icat-about-page
   .icat-author-box
+    if site.data.about.skills
+      .author-tag-left
+        each item in site.data.about.skills.left
+          span.author-tag=item
+    if site.data.about.skills
+      .author-tag-right
+        each item in site.data.about.skills.right
+          span.author-tag=item
     .icat-author-img
       img.no-lightbox(src='https://img.funning.top/favicon2.png')
     .image-dot
