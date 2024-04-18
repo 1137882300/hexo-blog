@@ -228,7 +228,7 @@ douban:
   movie:
     path: movies/index.html
     title: 'This is my movie title'
-    quote: 'This is my movie quote'
+    quote: '热爱生活，热爱影视'
     option:
   game:
     path: games/index.html
