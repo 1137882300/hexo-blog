@@ -30,7 +30,7 @@ nav:
     - title: 网页
       item:
         - name: V1版本
-          link: https://www.crab666.cloudns.biz/
+          link: https://v1.funning.top/ #https://www.crab666.cloudns.biz/
           icon: /img/favicon2.png
         - name: 3号线路
           link: http://funning.x10.mx
@@ -52,6 +52,11 @@ nav:
         - name: next-chat
           link: https://chat.funning.top
           icon: https://chat.funning.top/favicon.ico
+    - title: 工具
+      item:
+        - name: it-tools
+          link: https://tool.funning.top/
+          icon: https://tool.funning.top/favicon.ico
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
