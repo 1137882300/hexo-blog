@@ -4,17 +4,19 @@
       date: 2024-03-15
       from: iPhone XR
       video:
-        player: /video/1.mp4
+        player:
     - content: 人生短暂，要有所作为。
       date: 2024-03-15
       from: iPhone XR
       video:
-        bilibili: //player.bilibili.com/player.html?aid=913951276&bvid=BV1RM4y1p75T&cid=1211165267&page=1
+        bilibili:
     - content: 你不可能改变过去，但你可以改变未来。
       date: 2024-03-15
       from: iPhone XR
       image:
-        - https://s11.ax1x.com/2023/05/11/p9sKEh8.jpg
+        - https://qnocs.funning.top/blog/flower01.webp
+        - https://qnocs.funning.top/blog/wesley-shen-U-i4GZmCrG0-unsplash.jpg
+        - https://qnocs.funning.top/blog/premium_photo-1712226611084-4983941cbbf0.avif
     - content: 生活不是等待风暴过去，而是要学会在雨中跳舞。
       date: 2024-03-15
       aplayer:
@@ -24,3 +26,19 @@
       date: 2024-03-15
       from: Macbook Pro
       link: https://github.com/yife68/Hexo-Theme-Melancholia
+    - content: 生命的意义在于探索和发现。
+      date: 2024-04-01
+      from: iPhone 14 Pro
+      link: https://www.ted.com/talks/ken_robinson_do_schools_kill_creativity
+    - content: 成长的秘密是拥抱失败和尝试。
+      date: 2024-02-20
+      from: iPad Air
+      link: https://www.coursera.org/specializations/machine-learning
+    - content: 幸福的来源是内心的宁静和自信。
+      date: 2024-01-10
+      from: MacBook Air
+      link: https://www.mindfulnessstudio.app/meditations
+    - content: 学习的乐趣在于探索未知的领域。
+      date: 2024-03-22
+      from: Google Pixel 6
+      link: https://www.khanacademy.org/
