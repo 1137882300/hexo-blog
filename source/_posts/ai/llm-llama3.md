@@ -8,7 +8,7 @@ tags:
   - 大模型
   - AI
 description:
-date: 2024-03-18
+date: 2024-04-22
 keywords: 'AI,人工智能,LLM,大模型,gemini,ollama,llama2,llama,llama3'
 cover: https://img.funning.top/menggu1.png
 abbrlink: 112247
