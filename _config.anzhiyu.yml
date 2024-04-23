@@ -57,6 +57,17 @@ nav:
         - name: it-tools
           link: https://tool.funning.top/
           icon: https://tool.funning.top/favicon.ico
+    - title: 其他
+      item:
+        - name: home
+          link: https://home.funning.top/
+          icon:
+        - name: navigation
+          link: https://funning.app.tc/
+          icon:
+        - name: navigation
+          link: https://funning.app.tc/
+          icon:
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
