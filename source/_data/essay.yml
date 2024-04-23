@@ -1,5 +1,48 @@
 - class_name: 即刻短文
   essay_list:
+    - content: 生命的意义在于帮助他人和分享快乐。
+      date: 2024-09-05
+      from: Google Pixel 7
+      link: https://www.volunteer.gov/
+    - content: 成长的秘密是拥抱变化和拥抱未知。
+      date: 2024-10-15
+      from: iPhone 15 Pro
+      link: https://www.coursera.org/specializations/artificial-intelligence
+    - content: 生命的价值在于拥抱每一个瞬间。
+      date: 2024-04-10
+      from: Samsung Galaxy S21
+      image:
+        - https://picsum.photos/200/300
+        - https://source.unsplash.com/random/200x300
+        - https://loremflickr.com/200/300
+    - content: 成长的秘密是拥抱自己的不完美和尝试。
+      date: 2024-05-25
+      from: Huawei P30
+      image:
+        - https://picsum.photos/200/301
+        - https://source.unsplash.com/random/200x301
+        - https://loremflickr.com/200/301
+    - content: 幸福的来源是内心的宁静和自我接纳。
+      date: 2024-02-05
+      from: MacBook Air
+      image:
+        - https://picsum.photos/200/302
+        - https://source.unsplash.com/random/200x302
+        - https://loremflickr.com/200/302
+    - content: 学习的乐趣在于探索新的领域和挑战自我。
+      date: 2024-06-18
+      from: Google Pixel 6 Pro
+      image:
+        - https://picsum.photos/200/303
+        - https://source.unsplash.com/random/200x303
+        - https://loremflickr.com/200/303
+    - content: 生命的意义在于帮助他人和分享快乐。
+      date: 2024-07-10
+      from: OnePlus 9
+      image:
+        - https://picsum.photos/200/304
+        - https://source.unsplash.com/random/200x304
+        - https://loremflickr.com/200/304
     - content: 成功不是最终的，失败不是致命的，勇气继续前进才是最重要的。
       date: 2024-03-15
       from: iPhone XR
@@ -58,46 +101,3 @@
       date: 2024-08-10
       from: OnePlus 9 Pro
       link: https://www.udemy.com/course/machine-learning/
-    - content: 生命的意义在于帮助他人和分享快乐。
-      date: 2024-09-05
-      from: Google Pixel 7
-      link: https://www.volunteer.gov/
-    - content: 成长的秘密是拥抱变化和拥抱未知。
-      date: 2024-10-15
-      from: iPhone 15 Pro
-      link: https://www.coursera.org/specializations/artificial-intelligence
-    - content: 生命的价值在于拥抱每一个瞬间。
-      date: 2024-04-10
-      from: Samsung Galaxy S21
-      image:
-        - https://picsum.photos/200/300
-        - https://source.unsplash.com/random/200x300
-        - https://loremflickr.com/200/300
-    - content: 成长的秘密是拥抱自己的不完美和尝试。
-      date: 2024-05-25
-      from: Huawei P30
-      image:
-        - https://picsum.photos/200/301
-        - https://source.unsplash.com/random/200x301
-        - https://loremflickr.com/200/301
-    - content: 幸福的来源是内心的宁静和自我接纳。
-      date: 2024-02-05
-      from: MacBook Air
-      image:
-        - https://picsum.photos/200/302
-        - https://source.unsplash.com/random/200x302
-        - https://loremflickr.com/200/302
-    - content: 学习的乐趣在于探索新的领域和挑战自我。
-      date: 2024-06-18
-      from: Google Pixel 6 Pro
-      image:
-        - https://picsum.photos/200/303
-        - https://source.unsplash.com/random/200x303
-        - https://loremflickr.com/200/303
-    - content: 生命的意义在于帮助他人和分享快乐。
-      date: 2024-07-10
-      from: OnePlus 9
-      image:
-        - https://picsum.photos/200/304
-        - https://source.unsplash.com/random/200x304
-        - https://loremflickr.com/200/304
