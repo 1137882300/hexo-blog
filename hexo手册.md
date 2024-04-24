@@ -26,3 +26,9 @@ is_post()
 is_home()
 
 is_current()传入一个 URL ，判断是否本页就是，比如，链接中要对当前页面的链接做加强显示，就可以利用这个方法来添加对应的 class
+
+
+```text
+动态相册：
+https://meuicat.com/blog/84/
+```

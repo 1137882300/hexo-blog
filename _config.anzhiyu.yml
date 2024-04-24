@@ -59,13 +59,15 @@ nav:
         - name: home
           link: https://home.funning.top/
           icon:
-        - name: navigation
+        - name: 搜索页
           link: https://funning.app.tc/
           icon:
         - name: navigation
-          link: https://funning.app.tc/
+          link: https://funning.dev.tc/
           icon:
-
+        - name: 监控2号
+          link: https://funning.con.tc/
+          icon:
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
