@@ -35,9 +35,6 @@ nav:
         - name: 3号线路
           link: http://funning.x10.mx
           icon: /img/favicon2.png
-        - name: 导航栏
-          link: https://nav.funning.top/
-          icon: https://img.funning.top/nav.png
         - name: 今日热榜
           link: https://hot.funning.top/
           icon: https://hot.funning.top/ico/favicon.png
