@@ -1277,6 +1277,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/essay_page.css">
     - <link rel="stylesheet" href="/css/about.css">
+    - <link rel="stylesheet" href="/css/twikoo.css">
 #    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 #    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/bb/showbb_in_index.css">
     # 自定义css
