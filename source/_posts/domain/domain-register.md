@@ -3,7 +3,7 @@ title: 2024年免费域名注册网站大全(持续更新,建议收藏)
 shortTitle: 域名注册
 categories:
   - [ 域名 ]
-  - [ 白嫖 ]
+  - [ 白票 ]
 tags:
   - 域名
 description: 罗列了市面上可注册的免费域名。
