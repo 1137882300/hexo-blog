@@ -9,7 +9,7 @@ tags:
 date: 2024-04-27
 description:
 keywords: '手相,手掌,掌纹'
-cover: http://qnocs.funning.top/blog/xixishidi.png
+cover: https://qnocs.funning.top/blog/xixishidi.png
 abbrlink: 112249
 ---
 
