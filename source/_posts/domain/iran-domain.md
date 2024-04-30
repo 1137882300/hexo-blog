@@ -8,7 +8,7 @@ tags:
   - 域名
 description:
 date: 2024-04-30
-keywords: '域名,免费域名,白票,domain'
+keywords: '域名,免费域名,免费,domain'
 cover: https://img.funning.top/takeluoban.png
 abbrlink: 112250
 ---
