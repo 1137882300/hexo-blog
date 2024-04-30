@@ -9,7 +9,7 @@ tags:
 description:
 date: 2024-04-30
 keywords: '域名,免费域名,免费,domain'
-cover: https://img.funning.top/takeluoban.png
+cover: http://img.funning.top/takeluoban.png
 abbrlink: 112250
 ---
 
@@ -23,33 +23,33 @@ abbrlink: 112250
 
 # 进入网站
 
-> [`点击注册`](https://www.parsdata.com/en-US/free-domain) 抓紧时间，先到先得 👈👈👈
+> [`点击注册`](http://www.parsdata.com/en-US/free-domain) 抓紧时间，先到先得 👈👈👈
 
 登录注册，话不多说。
 
-![登录注册](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-16.png)
+![登录注册](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-16.png)
 
 登录进去默认是波斯文，不懂的可以翻译为英文。
 
-![首页](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-20-02.png)
+![首页](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-20-02.png)
 
 # 详细步骤
 
 1. 单击控制面板右侧的`Domain & Host`。通过进入域和托管页面，单击“域注册”图标。
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-41.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-41.png)
 
 2. 只选择 `.ir` 后缀的，因为只有这个是免费的。
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-52.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-52.png)
 
 3. 来到这一步，如果看到状态是 `available` ，则说明此域名是可以正常注册的。再点击继续。
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-03.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-03.png)
 
 4. 输入优惠码，优惠码在首页，文章下面点的位置。
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-03.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-03.png)
 
    > 如果这个优惠码名额没有被抢光，那订单价格会直接变成 `0 Rls` 。
    >
@@ -59,19 +59,19 @@ abbrlink: 112250
 
    > 这里的 National ID 指的就是身份证ID
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-33.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-33.png)
 
 6. 填写好后，来到这个页面，可以填写 `cloudflare 的 dns`
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-05.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-05.png)
 
 7. 点击 finish 完成域名的注册。
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-12.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-12.png)
 
 8. 最后来到这里，就说明注册好了，但是还需要耐心等待 NIC 的审核。
 
-   ![](https://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-28.png)
+   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-28.png)
 
 # 额外服务
 
@@ -81,5 +81,5 @@ abbrlink: 112250
 - 免费短信
 - 免费域名转发
 
-![](https://qnocs.funning.top/blog/ir-domain/irdomain01.png)
+![](http://qnocs.funning.top/blog/ir-domain/irdomain01.png)
 
