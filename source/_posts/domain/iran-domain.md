@@ -1,5 +1,5 @@
 ---
-title: 最新伊朗域名出炉，免费注册 😍，抢完为止！
+title: 最新伊朗《顶级域名》出炉，免费注册 😍，强烈推荐，抢完为止！
 shortTitle: 伊朗域名
 categories:
   - [ 域名 ]
@@ -12,6 +12,8 @@ keywords: '域名,免费域名,白票,domain'
 cover: https://img.funning.top/takeluoban.png
 abbrlink: 112250
 ---
+
+本次域名是`顶级域名`, 强烈推荐 ！！！
 
 本次域名提供了后缀为 ` .ir` 免费域名。
 
