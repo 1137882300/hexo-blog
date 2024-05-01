@@ -9,7 +9,7 @@ tags:
 description:
 date: 2024-04-30
 keywords: '域名,免费域名,免费,domain'
-cover: http://img.funning.top/takeluoban.png
+cover: https://img2.funning.top/file/3407f91a392bb1215bb5e.png
 abbrlink: 112250
 ---
 
@@ -27,29 +27,29 @@ abbrlink: 112250
 
 登录注册，话不多说。
 
-![登录注册](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-16.png)
+![登录注册](https://img2.funning.top/file/e6e2d14001da78f58afcb.png)
 
 登录进去默认是波斯文，不懂的可以翻译为英文。
 
-![首页](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-20-02.png)
+![首页](https://img2.funning.top/file/e5e9106696fc69d1c42de.png)
 
 # 详细步骤
 
 1. 单击控制面板右侧的`Domain & Host`。通过进入域和托管页面，单击“域注册”图标。
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-41.png)
+   ![](https://img2.funning.top/file/534d8c6b5c12722df944f.png)
 
 2. 只选择 `.ir` 后缀的，因为只有这个是免费的。
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-26-52.png)
+   ![](https://img2.funning.top/file/4448a2da504128382a4b4.png)
 
 3. 来到这一步，如果看到状态是 `available` ，则说明此域名是可以正常注册的。再点击继续。
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-03.png)
+   ![](https://img2.funning.top/file/bdba22c617058dfb7764a.png)
 
 4. 输入优惠码，优惠码在首页，文章下面点的位置。
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-03.png)
+   ![](https://img2.funning.top/file/bdba22c617058dfb7764a.png)
 
    > 如果这个优惠码名额没有被抢光，那订单价格会直接变成 `0 Rls` 。
    >
@@ -59,19 +59,19 @@ abbrlink: 112250
 
    > 这里的 National ID 指的就是身份证ID
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-27-33.png)
+   ![](https://img2.funning.top/file/9b246fcb994711c85d06e.png)
 
 6. 填写好后，来到这个页面，可以填写 `cloudflare 的 dns`
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-05.png)
+   ![](https://img2.funning.top/file/aa70463f7c12349e0a463.png)
 
 7. 点击 finish 完成域名的注册。
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-12.png)
+   ![](https://img2.funning.top/file/d9bb2703fd8d7afa2ae8d.png)
 
 8. 最后来到这里，就说明注册好了，但是还需要耐心等待 NIC 的审核。
 
-   ![](http://qnocs.funning.top/blog/ir-domain/Snipaste_2024-04-30_09-28-28.png)
+   ![](https://img2.funning.top/file/1aa0460237d2db6622b6d.png)
 
 # 额外服务
 
@@ -81,5 +81,5 @@ abbrlink: 112250
 - 免费短信
 - 免费域名转发
 
-![](http://qnocs.funning.top/blog/ir-domain/irdomain01.png)
+![](https://img2.funning.top/file/5af131f8df9a55f33344a.png)
 
