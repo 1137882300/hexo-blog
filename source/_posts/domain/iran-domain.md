@@ -3,7 +3,7 @@ title: 最新伊朗《顶级域名》出炉，免费注册 😍，强烈推荐�
 shortTitle: 伊朗域名
 categories:
   - [ 域名 ]
-  - [ 白嫖 ]
+  - [ 免费 ]
 tags:
   - 域名
 description:

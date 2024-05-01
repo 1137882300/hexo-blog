@@ -1,9 +1,9 @@
 ---
-title: 【超级干货！】8个免费GPT-4网站！🤯立省$20不香吗？教你如何白嫖使用GPT-4🤖 | How to Access GPT-4 for Free!
+title: 【超级干货！】8个免费GPT-4网站！🤯立省$20不香吗？教你如何免费使用GPT-4🤖 | How to Access GPT-4 for Free!
 shortTitle: 免费使用gpt-4
 categories:
   - [AI]
-  - [白嫖]
+  - [免费]
 tags:
   - chatgpt
   - gpt-4
