@@ -62,15 +62,36 @@
   class_desc: 小伙伴们
   flink_style: flexcard
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
+    - name: Evan
+      link: https://www.evan.xin
+      avatar: https://www.evan.xin/logo.png
+      descr: Crappy technophiles
       recommend: true
       color: vip
-    - name: Hexo2222
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
+    - name: 小城故事
+      link: https://webxc.eu.org
+      avatar: https://npm.elemecdn.com/webxc/logo/logo.jpg
+      descr: 欢迎光临小城故事!
       recommend: true
       color:
+    - name: 云烟
+      link: https://www.yunyanck.cn/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=634267404&s=100
+      descr: 祝少年不老 何妨迷路看风光
+      recommend: false
+      color: vip
+      tag: 新
+    - name: JiangnanPsalter
+      link: https://jiangnanpsalter.com/
+      avatar: https://jiangnanpsalter.com/img/avater.jpg
+      descr: 风华绝代，难绘就一成
+      recommend: false
+      color: vip
+      tag: 新
+    - name: 旅游的企鹅
+      link: https://www.lydqe.cc/
+      avatar: https://www.lydqe.cc/upload/biao.jpeg
+      descr: 努力学习新的知识
+      recommend: false
+      color: vip
+      tag: 新
