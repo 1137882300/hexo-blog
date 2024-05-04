@@ -9,7 +9,7 @@ tags:
 description:
 date: 2024-04-30
 keywords: '域名,免费域名,免费,domain'
-cover: https://img2.funning.top/file/3407f91a392bb1215bb5e.png
+cover: https://img.funning.top/suwu.png
 abbrlink: 112250
 ---
 

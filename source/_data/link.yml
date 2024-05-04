@@ -8,18 +8,31 @@
       descr: 茗辰原，一个与众不同的异世界，等待你的探索与发现。
       recommend: true
       color:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
+    - name: Gin 琴酒
+      link: https://blog.gincode.icu/
+      avatar: https://files.superbed.cn/store/images/0e/8f/64baa3da1ddac507ccec0e8f.png
+      descr: 满堂花醉三千客，一剑霜寒十四州。|
+      color:
+    - name: 学海无涯
+      link: https://caolib.github.io
+      avatar: https://img2.imgtp.com/2024/04/04/A1kg7et8.gif
+      descr: 停止摆烂，背水一战
       recommend: true
       color: vip
-    - name: Hexo2222
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
-      recommend: true
-      color:
+      tag: 新
+    - name: Jerry Zhou
+      link: https://blog.jerryz.com.cn/
+      avatar: https://img.examcoo.com/ask/7386438/202111/163626915705190.jpg
+      descr: 永远相信美好的事情即将发生
+      recommend: false
+      color: vip
+      tag: 新
+    - name: 星空故事·魔法小屋
+      link: https://blog.sinzmise.top/
+      avatar: https://blog.sinzmise.top/img/avatar.png
+      descr: 种下一颗有故事的种子，让它带着魔法和奇迹生根发芽
+      recommend: false
+      color: vip
       tag: 新
 
 - class_name: 网站
