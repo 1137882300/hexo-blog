@@ -1,8 +1,8 @@
 ---
-title:
+title: 相册
 date:
 updated:
-type: ""
+type: "album"
 comments:
 description:
 keywords:
