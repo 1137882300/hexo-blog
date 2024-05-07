@@ -119,6 +119,7 @@ const anzhiyu = {
   },
 
   initJustifiedGallery: function (selector) {
+    console.log(">>>>>>>>>>>>>>initJustifiedGallery,utils")
     const runJustifiedGallery = i => {
       if (!anzhiyu.isHidden(i)) {
         fjGallery(i, {

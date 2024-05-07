@@ -2,7 +2,7 @@
 title: 相册
 date:
 updated:
-type: "album"
+type: "album_detail"
 comments:
 description:
 keywords:
