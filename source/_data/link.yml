@@ -53,7 +53,7 @@
   link_list:
     - name: Langchain
       link: https://python.langchain.com/
-      avatar: https://python.langchain.com/img/brand/favicon.png
+      avatar: https://js.langchain.com/img/favicon.ico
       descr: AI 框架
       recommend: true
     - name: Youtube
