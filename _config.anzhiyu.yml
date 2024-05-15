@@ -52,8 +52,8 @@ nav:
     - title: 工具
       item:
         - name: it-tools
-          link: https://tool.funning.top/
-          icon: https://tool.funning.top/favicon.ico
+          link: https://it-tools-latest-a89g.onrender.com/ # https://tool.funning.top/
+          icon: https://it-tools-latest-a89g.onrender.com/favicon.ico
 #    - title: 其他
 #      item:
 #        - name: home
