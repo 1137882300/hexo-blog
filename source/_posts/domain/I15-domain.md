@@ -41,10 +41,9 @@ abbrlink: 112254
 
     ![](https://img2.funning.top/file/f137fc57aa7cd12c4da7c.png)
 
-6. 使用了，价格变成0了，注意需要`选择USD货币`类型
+5. 使用了，价格变成0了，注意需要`选择USD货币`类型
 
    ![](https://img2.funning.top/file/e67968ed455a0407c0ecb.png)
-
 
 6. 结算之后就成功注册号域名啦
 
