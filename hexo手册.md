@@ -51,3 +51,15 @@ partial 是 Pug 提供的一个函数，用于包含并渲染其他模板文件�
 - console.log("---------------") 是在 hexo g 的时候才打印
 
 ```
+
+```shell
+名称：罗布斯
+链接：https://blog.crab888.cloudns.org/
+头像：https://blog.crab888.cloudns.org/img/favicon2.png
+描述：永远不要相信苦难是值得的，苦难就是苦难，它不会带来成功，也不值得追求，磨炼意志是因为苦难无法逃避。
+
+名称：罗布斯
+链接：https://blog.funning.top
+头像：https://blog.funning.top/img/favicon2.png
+描述：永远不要相信苦难是值得的，苦难就是苦难，它不会带来成功，也不值得追求，磨炼意志是因为苦难无法逃避。
+```
