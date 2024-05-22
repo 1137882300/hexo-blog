@@ -1,5 +1,5 @@
 ---
-title: 免费注册 sitelutions 域名🎁，永久免费二级域名，多个域名后缀选择 ✨！
+title: 免费注册 sitelutions 域名🎁，永久免费二级域名，支持多个域名后缀选择 ✨！
 shortTitle: 香港域名
 categories:
   - [ 域名 ]
