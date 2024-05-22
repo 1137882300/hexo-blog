@@ -1,8 +1,8 @@
 - class_name: 玩乐
   path_name: /album_detail/
-  cover: https://picsum.photos/200/300
+  cover: https://unsplash.com/photos/brown-tabby-cat-E3LcqpQxtTU
   description: 天空在做美
-  top_background: https://picsum.photos/200/300
+  top_background: https://unsplash.com/photos/brown-tabby-cat-E3LcqpQxtTU
   top_btn_text: 返回
   top_link: /album
   lazyload: true
@@ -34,9 +34,9 @@
         - https://placebeard.it/800/600
 - class_name: 旅行✈️
   path_name: /album_travel/
-  cover: https://img2.funning.top/file/db6c3f2b22b84613575b9.png
+  cover: https://unsplash.com/photos/orange-tabby-cat-on-white-concrete-wall-AyrVL1W0OLo
   description: 你最帅
-  top_background: https://img2.funning.top/file/db6c3f2b22b84613575b9.png
+  top_background: https://unsplash.com/photos/orange-tabby-cat-on-white-concrete-wall-AyrVL1W0OLo
   top_btn_text:
   top_link:
   type: 1
