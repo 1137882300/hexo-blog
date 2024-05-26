@@ -40,15 +40,18 @@ nav:
           icon: https://hot.funning.top/ico/favicon.png
     - title: AI
       item:
-        - name: gemini-pro
-          link: https://gemini.funning.top/
-          icon: https://img.funning.top/gemini.png
         - name: lobe-chat
           link: https://lobe-chat.funning.top/
           icon: https://registry.npmmirror.com/@lobehub/assets-favicons/1.4.0/files/assets/favicon.ico
         - name: next-chat
           link: https://chat.funning.top
           icon: https://chat.funning.top/favicon.ico
+        - name: gemini-v2
+          link: https://gemini.923828.xyz
+          icon: https://gemini.923828.xyz/logo.svg
+        - name: gemini-v1
+          link: https://gemini.funning.top/
+          icon: https://img.funning.top/gemini.png
     - title: 工具
       item:
         - name: it-tools
