@@ -12,7 +12,7 @@ tags:
   - LangChain
   - RAG
 description:
-date: 2024-04-08
+date: 2024-06-04
 keywords: 'AI,prompt,LangChain'
 cover: https://img2.funning.top/file/c430c68b1ed8fb17f6b4f.png
 abbrlink: 112257
