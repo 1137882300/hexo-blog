@@ -1,8 +1,8 @@
-- class_name: 欢乐旅行✈️
-  path_name: /album_travel/
-  cover: https://unsplash.com/photos/brown-tabby-cat-E3LcqpQxtTU
-  description: travel
-  top_background: https://unsplash.com/photos/brown-tabby-cat-E3LcqpQxtTU
+- class_name: 动物世界🐒
+  path_name: /album_animal/
+  cover: https://img.crab888.cloudns.org/file/6cd33f7de36dc9d55ef1f.jpg
+  description: animal
+  top_background: https://img.crab888.cloudns.org/file/6cd33f7de36dc9d55ef1f.jpg
   top_btn_text: 返回
   top_link: /album
   type: 1

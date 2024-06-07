@@ -14,7 +14,7 @@ tags:
 description:
 date: 2024-06-04
 keywords: 'AI,prompt,LangChain'
-cover: https://img2.funning.top/file/c430c68b1ed8fb17f6b4f.png
+cover: https://img2.funning.top/file/013f0d9a3f50c73d4b310.png
 abbrlink: 112257
 ---
 

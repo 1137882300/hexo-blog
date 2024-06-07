@@ -1,8 +1,8 @@
-- class_name: 欢乐旅行✈️
-  path_name: /album_travel/
-  cover: https://unsplash.com/photos/brown-tabby-cat-E3LcqpQxtTU
-  description: travel
-  top_background: https://unsplash.com/photos/brown-tabby-cat-E3LcqpQxtTU
+- class_name: 怀旧故居🏠
+  path_name: /album_former/
+  cover:
+  description: 你
+  top_background:
   top_btn_text: 返回
   top_link: /album
   type: 1
