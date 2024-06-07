@@ -63,3 +63,9 @@ partial 是 Pug 提供的一个函数，用于包含并渲染其他模板文件�
 头像：https://blog.funning.top/img/favicon2.png
 描述：永远不要相信苦难是值得的，苦难就是苦难，它不会带来成功，也不值得追求，磨炼意志是因为苦难无法逃避。
 ```
+
+```js
+let durl = i.url ?? false
+// 如果 i.url 的值不为 null 或 undefined，则将 durl 的值设置为 i.url。
+// 否则，将 durl 的值设置为 false。
+```

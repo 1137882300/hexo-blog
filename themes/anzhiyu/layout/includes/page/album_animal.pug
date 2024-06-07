@@ -60,20 +60,21 @@
                                         i.anzhiyufont.anzhiyu-icon-message
                 else if type == 2
                     .type-gallery
-                        - const rowHeight = i.rowHeight != "undefined" ? i.rowHeight : 220
-                        - const limit = i.limit != "undefined" ? i.limit : 10
-                        - const lazyload = i.lazyload != "undefined" ? i.lazyload : true
-                        - const lazyloadClass = lazyload == true ? "lazyload" : "";
-                        - const btn = i.btnLazyload != "undefined" ? i.btnLazyload : false
-                        - const btnLazyloadClass = btn == true ? " btn_album_detail_lazyload" : "";
-                        - const imgType = i.url ? " url" : " data";
+                        - let rowHeight = i.rowHeight != "undefined" ? i.rowHeight : 220
+                        - let limit = i.limit != "undefined" ? i.limit : 10
+                        - let lazyload = i.lazyload != "undefined" ? i.lazyload : true
+                        - let lazyloadClass = lazyload == true ? "lazyload" : "";
+                        - let btn = i.btnLazyload != "undefined" ? i.btnLazyload : false
+                        - let btnLazyloadClass = btn == true ? " btn_album_detail_lazyload" : "";
+                        - let imgType = i.url ? " url" : " data";
                         - let dataStr = []
                         - let durl = i.url ?? false
+                        - console.log("------album_animal-type == 2---------")
                         each item, index in i.album_list
                             each iten, indey in item.image
                                 - let obj = {}
                                 - obj.url = iten
-                                - obj.alt = item.content
+                                - obj.alt = item.link
                                 - obj.title = item.content
                                 - obj.address = item.address
                                 - dataStr.push(obj)
