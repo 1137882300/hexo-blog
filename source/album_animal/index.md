@@ -2,7 +2,7 @@
 title: 相册
 date:
 updated:
-type: "album_detail"
+type: "album_animal"
 comments:
 description:
 keywords:

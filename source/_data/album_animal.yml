@@ -5,7 +5,7 @@
   top_background: https://img.crab888.cloudns.org/file/6cd33f7de36dc9d55ef1f.jpg
   top_btn_text: 返回
   top_link: /album
-  type: 1
+  type: 2
   album_list:
     - content: 阿水大时代
       aplayer:
