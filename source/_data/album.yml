@@ -4,13 +4,13 @@
   description: 猫咪
 - class_name: 欢乐旅行✈️
   path_name: /album_travel/
-  cover: https://unsplash.com/photos/orange-tabby-cat-on-white-concrete-wall-AyrVL1W0OLo
+  cover: https://img.crab888.cloudns.org/file/5d4a236f48c73221eb6ba.jpg
   description: travel
 - class_name: 怀旧故居🏠
   path_name: /album_former/
-  cover: https://unsplash.com/photos/orange-tabby-cat-on-white-concrete-wall-AyrVL1W0OLo
-  description: former_home
+  cover: https://img.crab888.cloudns.org/file/d3a0037ba42518c84cd0a.jpg
+  description: former
 - class_name: 占个位置🥸
   path_name: /album_former/
-  cover: https://unsplash.com/photos/orange-tabby-cat-on-white-concrete-wall-AyrVL1W0OLo
+  cover: https://img.crab888.cloudns.org/file/5fc42cab077406f6d535d.jpg
   description: 占个位置
