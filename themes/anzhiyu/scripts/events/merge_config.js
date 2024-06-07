@@ -16,7 +16,7 @@ hexo.extend.filter.register(
       social: true,
       favicon: "/favicon.ico",
       avatar: {
-        img: "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg",
+        img: "https://img.crab888.cloudns.org/file/44d9e920a271df811d91a.jpg",//https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
         effect: false,
       },
       disable_top_img: false,
@@ -41,7 +41,7 @@ hexo.extend.filter.register(
       error_404: {
         enable: true,
         subtitle: "请尝试站内搜索寻找文章",
-        background: "https://bu.dusays.com/2023/05/08/645907596997d.gif",
+        background: "https://img.crab888.cloudns.org/file/1bf1b53ac2cb5765e158f.gif", //https://bu.dusays.com/2023/05/08/645907596997d.gif
       },
       post_meta: {
         page: {
@@ -90,7 +90,7 @@ hexo.extend.filter.register(
         enable: true,
         decode: false,
         author_href: null,
-        location: "长沙",
+        location: "杭州",
         license: "CC BY-NC-SA 4.0",
         license_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
         avatarSinks: false,
@@ -558,8 +558,8 @@ hexo.extend.filter.register(
       },
       diytitle: {
         enable: true,
-        leaveTitle: "w(ﾟДﾟ)w 不要走！再看看嘛！",
-        backTitle: "♪(^∇^*)欢迎肥来！",
+        leaveTitle: "不要走 ",
+        backTitle: " 欢迎肥来！",
       },
       comment_barrage_config: {
         enable: false,
