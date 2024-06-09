@@ -1,33 +1,22 @@
 - class_name: 怀旧故居🏠
   path_name: /album_former/
-  cover:
-  description: 你
-  top_background:
+  cover: https://img.crab888.cloudns.org/file/6cd33f7de36dc9d55ef1f.jpg
+  description: animal
+  top_background: https://img.crab888.cloudns.org/file/6cd33f7de36dc9d55ef1f.jpg
   top_btn_text: 返回
   top_link: /album
-  type: 1
+  type: 2
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btn: false
+  url:
   album_list:
-    - content: 阿水大时代
-      aplayer:
-      date: 1622987600000
+    - content: home
       link:
-      address: 哈哈
-      from: 哈哈
+      address: 四川
       image:
-        - https://loremflickr.com/600/800
-    - content: 阿水大时代22
-      aplayer:
-      date: 1622987600000
-      link:
-      address: 北京2哈哈
-      from: 天2哈哈
+        - https://img.crab888.cloudns.org/file/6cd33f7de36dc9d55ef1f.jpg
+    - content: 狗狗
       image:
         - https://loremflickr.com/1200/1200
-    - content: 阿水大时代33
-      aplayer:
-      date: 1622987600000
-      link:
-      address: 北京
-      from: 天
-      image:
-        - https://placebeard.it/800/600
