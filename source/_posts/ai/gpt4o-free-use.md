@@ -12,7 +12,7 @@ tags:
 description: 免费使用gpt-4o
 date: 2024-05-21
 keywords: 'AI,人工智能,chatgpt,gpt-4,gpt-3.5,gpt-4o'
-cover: https://img2.funning.top/file/f619bb1901f251973bf69.png
+cover: https://img.crab888.cloudns.org/file/01b521f6bd9beccd97ac2.png
 abbrlink: 112256
 ---
 
