@@ -1,5 +1,5 @@
 ---
-title: retriever
+title: langchain 学习笔记之 retriever
 shortTitle:
 categories:
   - [ AI ]
@@ -14,7 +14,7 @@ tags:
 description:
 date: 2024-06-04
 keywords: 'AI,prompt,LangChain'
-cover: https://img2.funning.top/file/013f0d9a3f50c73d4b310.png
+cover: https://img.crab888.cloudns.org/file/345d0bb75eeb731cb9dd5.png
 abbrlink: 112257
 ---
 
