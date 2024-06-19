@@ -6,14 +6,12 @@ categories:
   - [ LangChain ]
 tags:
   - AI
-  - LLM
-  - 大语言模型
   - LangChain
   - streamlit
 description:
 date: 2024-06-19
 keywords: 'AI,prompt,LangChain,streamlit'
-cover:
+cover: https://img.crab888.cloudns.org/file/613b0c95ca0e135e4f1f3.png
 abbrlink: 112259
 ---
 
