@@ -1,12 +1,26 @@
-- class_name: asd
-  description: asdasds
+- class_name: 好物
+  description: 实物装备推荐
   top_background: https://img2.funning.top/file/af4e426c600a958cb624f.png
-  tip: qeqrqr
+  tip: 跟 Robus 一起享受科技带来的乐趣
   good_things:
-    - title: adasda
-      description: asdasd
+    - title: 生产力
+      description: 提升自己生产效率的硬件设备
       equipment_list:
-        - image: adasd
-          name: adwqe
+        - image: https://img02.anheyu.com/adminuploads/1/2023/07/01/649fb50c6c2a3.png!w400
+          name: MacBook Pro 2021 16 英寸
           link: https://g.923828.xyz
-          description: adasda
+          specification: M1 Max 64G / 1TB
+          description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
+        - image: https://img02.anheyu.com/adminuploads/1/2023/07/01/649fb629ee5f4.png!w400
+          name: iPad 2020
+          link: https://g.923828.xyz
+          specification: 深空灰 / 128G
+          description: 事事玩得转，买前生产力，买后爱奇艺。
+    - title: 出行
+      description: 用来出行的实物及设备
+      equipment_list:
+        - image: https://img02.anheyu.com/adminuploads/1/2023/07/01/649fbed1840c6.webp!w400
+          name: Apple Watch Series 8
+          link: https://g.923828.xyz
+          specification: 黑色
+          description: 始终为我的健康放哨，深夜弹出站立提醒，不过确实有效的提高了我的运动频率，配合apple全家桶还是非常棒的产品，缺点依然是续航。
