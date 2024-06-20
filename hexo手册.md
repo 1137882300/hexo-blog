@@ -69,3 +69,11 @@ let durl = i.url ?? false
 // 如果 i.url 的值不为 null 或 undefined，则将 durl 的值设置为 i.url。
 // 否则，将 durl 的值设置为 false。
 ```
+
+# hexo 中文网
+
+https://wizardforcel.gitbooks.io/hexo-doc/content/47.html
+
+```text
+hexo.extend.tag.register 是 Hexo 中用于注册标签插件的方法。它允许开发者在文章中快速插入自定义内容1。具体来说，这个方法接受三个参数：
+```

@@ -26,6 +26,7 @@ function gallery(args, content) {
         limit = limit == "" ? 10 : limit;
         lazyloadBtn = lazyloadBtn == false ? false : lazyloadBtn;
 
+        //这个正则表达式用于匹配 Markdown 中的图片链接
         const regex = /!\[(.*?)\]\(([^\s]*)\s*(?:["'](.*?)["']?)?\s*\)/g;
         let m;
         const arr = [];
@@ -45,6 +46,8 @@ function gallery(args, content) {
 
     //随机dataStr里的元素
     dataStr = JSON.stringify(dataStr.sort(() => Math.random() - 0.5));
+
+    // console.log("dataStr" + dataStr)
 
     type = type ? " url" : " data";
     const lazyloadClass = lazyload === "true" ? "lazyload btn_album_detail_lazyload" : "";
@@ -80,5 +83,6 @@ function galleryGroup(args) {
   `;
 }
 
+//hexo.extend.tag.register 是 Hexo 中用于注册标签插件的方法。它允许开发者在文章中快速插入自定义内容1。具体来说，这个方法接受三个参数：
 hexo.extend.tag.register("gallery", gallery, {ends: true});
 hexo.extend.tag.register("galleryGroup", galleryGroup);
