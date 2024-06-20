@@ -70,7 +70,8 @@
             - let dataStr = []
             - let durl = i.url ?? false
             each item, index in i.album_list
-              each iten, indey in item.image
+              - let shuffledImages = item.image.sort(() => Math.random() - 0.5) // Shuffle the array
+              each iten, indey in shuffledImages
                   - let obj = {}
                   - obj.url = iten
                   - obj.alt = item.content
