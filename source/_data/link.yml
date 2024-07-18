@@ -2,6 +2,18 @@
   class_desc: 那些人，那些事
   flink_style: anzhiyu
   link_list:
+    - name: 時光
+      link: https://blog.shiguang666.eu.org/
+      avatar: https://blog.shiguang666.eu.org/img/avatar.png
+      descr: 心寄朗朗乾坤，胸怀真修之道。
+      recommend: true
+      color:
+    - name: 金丝雀
+      link: https://blog.loricat.cn/
+      avatar: https://photo.loricat.cn/tx.png
+      descr: 迷失的人迷失了，相逢的人会再相逢 —— 金丝雀
+      recommend: true
+      color:
     - name: 茗辰原 の 异世界
       link: https://not.mcy.cloudns.org/
       avatar: https://ice.frostsky.com/2024/01/07/e83fb8c32b0eedf803ea76a2d839f7e3.png
