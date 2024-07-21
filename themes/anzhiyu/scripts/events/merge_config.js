@@ -83,7 +83,10 @@ hexo.extend.filter.register(
       mainTone: {
         enable: false,
         mode: "api",
-        api: "https://img2color-go.vercel.app/api?img=",
+        //anheyu的
+        // api: "https://img2color-go.vercel.app/api?img=",
+        //自己的
+        api: "https://img2color-go-dun.vercel.app/api?img=",
         cover_change: true,
       },
       post_copyright: {
@@ -213,7 +216,7 @@ hexo.extend.filter.register(
         card_weixin: {
           enable: true,
           face: "https://bu.dusays.com/2023/01/13/63c02edf44033.png",
-          backFace: "https://bu.dusays.com/2023/05/13/645fa415e8694.png",
+          backFace: "https://img.crab6688.cloudns.org/file/cccd204b39f536468cb38.png",
         },
         card_recent_post: {
           enable: true,
@@ -619,7 +622,7 @@ hexo.extend.filter.register(
       },
       rightClickMenu: { enable: false },
       peoplecanvas: {
-        enable: true,
+        enable: false,
         img: "https://upload-bbs.miyoushe.com/upload/2023/09/03/125766904/ee23df8517f3c3e3efc4145658269c06_5714860933110284659.png",
       },
       dynamicEffect: {
