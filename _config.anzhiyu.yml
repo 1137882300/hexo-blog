@@ -41,6 +41,9 @@ nav:
           icon: https://hot.funning.top/ico/favicon.png
     - title: AI
       item:
+        - name: AI-1oo
+          link: https://ai1oo.923828.xyz/
+          icon: https://ai1oo.923828.xyz/favicon.ico
         - name: lobe-chat
           link: https://lobe-chat.funning.top/
           icon: https://registry.npmmirror.com/@lobehub/assets-favicons/1.4.0/files/assets/favicon.ico
