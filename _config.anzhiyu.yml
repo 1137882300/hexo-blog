@@ -400,8 +400,8 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-#  envId: https://comment.funning.top/
-  envId: https://coderjuzi-twikoo.hf.space/
+  envId: https://comment.funning.top/
+#  envId: https://coderjuzi-twikoo.hf.space/
   region:
   visitor: true
   option:
