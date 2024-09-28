@@ -12,7 +12,7 @@ tags:
 description: Dify工作流复刻O1：性能究竟有多强？两种OpenAI O1平替方案，让开源模型也拥有超强思维链！
 date: 2024-09-21
 keywords: 'AI,人工智能,chatgpt,gpt-4,gpt-3.5,gpt-4o'
-cover:  
+cover: https://img.crab6688.cloudns.org/file/eb27830c3f10efe0ee102-728838766a07beac0d.jpg
 abbrlink: 112260
 ---
 
