@@ -1300,6 +1300,7 @@ inject:
     - <script>LA.init({id:"3HpYY76yP9aU49Wd",ck:"3HpYY76yP9aU49Wd"})</script>
     - <script async data-pjax src="/js/essay.js"></script> # 即刻逻辑文件
     - <script async data-pjax src="/js/waterfall.js"></script> # 即刻瀑布流JS
+    - <script defer src="/_vercel/insights/script.js"></script> # vercel-analytics
     # 自定义js
     # - <script src="/js/xxx"></script>
 
