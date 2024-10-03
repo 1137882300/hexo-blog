@@ -12,7 +12,7 @@ tags:
 description: 开源媒体资源下载神器-> cobalt
 date: 2024-09-28
 keywords: 'cobalt,github,开源项目,video,download'
-cover:  
+cover: https://img.crab888.cloudns.org/file/01b521f6bd9beccd97ac2.png
 abbrlink: 112261
 ---
 
