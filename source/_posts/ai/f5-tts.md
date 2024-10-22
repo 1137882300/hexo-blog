@@ -1,12 +1,12 @@
 ---
-title: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
-shortTitle: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+title: Official code for "F5-TTS  A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+shortTitle: Official code for "F5-TTS  A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 categories:
   - [AI]
   - [TTS]
 tags:
   - tts
-description: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+description: Official code for "F5-TTS  A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 date: 2024-10-21
 keywords: 'AI,人工智能,TTS,tts'
 cover:  

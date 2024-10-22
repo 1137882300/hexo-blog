@@ -1,5 +1,6 @@
 ---
 title: 谷歌翻译镜像大全，有需要的自取。(持续更新)
+layout: post
 shortTitle: 谷歌翻译镜像大全，有需要的自取。
 categories:
   - [Google-Translate]
