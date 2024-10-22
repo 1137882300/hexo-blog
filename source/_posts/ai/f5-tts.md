@@ -7,7 +7,7 @@ categories:
 tags:
   - tts
 description: Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
-date: 2024-10-03
+date: 2024-10-21
 keywords: 'AI,人工智能,TTS,tts'
 cover:  
 abbrlink:  112263
