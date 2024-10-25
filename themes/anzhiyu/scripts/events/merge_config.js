@@ -622,7 +622,7 @@ hexo.extend.filter.register(
       },
       rightClickMenu: { enable: false },
       peoplecanvas: {
-        enable: false,
+        enable: true,
         img: "https://upload-bbs.miyoushe.com/upload/2023/09/03/125766904/ee23df8517f3c3e3efc4145658269c06_5714860933110284659.png",
       },
       dynamicEffect: {

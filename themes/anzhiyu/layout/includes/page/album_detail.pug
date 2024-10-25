@@ -44,7 +44,7 @@
                       - var datedata = new Date(item.date).toISOString()
                       i.anzhiyufont.anzhiyu-icon-instagram
                       time.datatime(datetime= item.date)= datedata
-                    if item.link
+                    if item.link 
                       a.album-content-link(target="_blank", title="跳转到短文指引的链接", href=item.link, rel="external nofollow")
                         i.anzhiyufont.anzhiyu-icon-link
                         | 链接
@@ -52,7 +52,7 @@
                       .album-info-address
                         i.anzhiyufont.anzhiyu-icon-location-dot
                         span=item.address
-                    if item.from
+                    if item.from 
                       .album-info-from
                           i.anzhiyufont.anzhiyu-icon-fw-fire
                           span=item.from
@@ -80,14 +80,14 @@
                   - dataStr.push(obj)
             .gallery
               .fj-gallery(data-rowHeight=rowHeight data-limit=limit class=`${lazyloadClass + btnLazyloadClass + imgType}`)
-                if durl
+                if durl 
                   span.gallery-data=durl
-                else
+                else 
                   span.gallery-data=JSON.stringify(dataStr)
               if btn
                 button.gallery-load-more
                   span=_p('load_more')
                   i.anzhiyufont.anzhiyu-icon-arrow-down
-              else
+              else 
                 #album_detail_gallery_load_more
 

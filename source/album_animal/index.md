@@ -3,7 +3,7 @@ title: 相册
 date:
 updated:
 type: "album_animal"
-comments:
+comments: false
 description:
 keywords:
 top_img: false

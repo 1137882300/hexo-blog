@@ -1,9 +1,118 @@
-skills:
-  right:
-    -
-    -
-    -
-  left:
-    -
-    -
-    -
+- subtitle: "今天干三碗饭"
+  avatarImg: ""
+  name: "ROBUS"
+  description: "是一名 永远18岁的大帅锅、独立开发者、博主"
+  helloAbout: "干饭魂"
+  skillsTips:
+    tips: "技能"
+    title: "开启创造力"
+  careers:
+    tips: "生涯"
+    title: "无限进步"
+    list:
+      - desc: "幼儿园大班毕业"
+        color: "#3366ff"
+      - desc: "小学六年扛把子"
+        color: "#3366ff"
+      - desc: "初中三年光膀子"
+        color: "#3366ff"
+    img: "https://bu.dusays.com/2023/04/21/644287166329b.png"
+    item: "职业条目"
+  avatarSkills:
+    left: ["🤖️ 主研后端不善前端", "🔍 新人UP主喜欢分享","🔨 什么都懂但懂得不多"]
+    right: ["设计剪辑GET中 🤝", "软硬件样样会一点点 🧱","被小白折磨已玉玉 💢"]
+  aboutsiteTips:
+    tips: "追求"
+    title1: "源于"
+    title2: "好奇心而去 学习"
+    word: ["喜欢刻晴", "折腾", "编程"]
+  statistic:
+    cover: "统计封面路径"
+    link: "链接"
+    text: "按钮文本"
+  map:
+    background: "https://img.090227.xyz/file/cd149bcf35f26633643c2.png"
+    backgroundDark: "深色模式地图背景"
+    title: "我现在住在"
+    StrengthenTitle: "印度尼西亚"
+  selfInfo:
+    selfInfoTips1: "生于"
+    selfInfoContentYear: "2000"
+    selfInfoTips2: "宾夕法尼亚幼儿园"
+    selfInfoContent2: "扣鼻屎专业"
+    selfInfoTips3: "现在职业"
+    selfInfoContent3: "打一学生👨‍🎓"
+  personalities:
+    author_name: "提倡者"
+    personality_type: "INFP"
+    photo_url: "https://www.16personalities.com/static/images/types/headers/advocate-desktop1.svg"
+    personality_img: "https://www.16personalities.com/static/images/personality-types/avatars/faces/infj-advocate-s3-v1-male.svg"
+    name_url: "姓名链接"
+    personality_type_color: "#颜色代码"
+  maxim:
+    maxim_tips: "座右铭"
+    maxim_top: "细节决定成败"
+    maxim_bottom: "πππππππ"
+  buff:
+    buff_tips: "特长"
+    buff_top: "脑回路新奇的 咸鱼"
+    buff_bottom: "二次元指数 MAX"
+  game:
+    game_tips: "爱好原神"
+    game_title: "原神"
+    game_uid: "robus"
+    game_bg: "https://img.090227.xyz/file/cbd3057db308d27fc9f0d.jpg"
+  comic:
+    comic_tips: "爱看漫画"
+    comic_title: "追番"
+    comic_list:
+      - name: "反叛的鲁路修"
+        href: "链接"
+        cover: "https://img.090227.xyz/file/c2446157c2b15ce2d1bb7.jpg"
+      - name: "幼女战记"
+        cover: "https://img.090227.xyz/file/f0d0ab60d5ab5f90a9dba.jpg"
+      - name: "无职转生"
+        cover: "https://img.090227.xyz/file/afafdc31b9185604159f8.jpg"
+      - name: "监狱学园"
+        cover: "https://img.090227.xyz/file/d3b815b78d310cc6a0882.jpg"
+      - name: "无职转生"
+        cover: "https://img.090227.xyz/file/0a8851030d51cd25ad53d.jpg"
+  music:
+    music_tips: "音乐偏好"
+    music_title: "别问，问就是周杰伦"
+    music_link: "音乐链接"
+    music_bg: "音乐背景"
+  like:
+    like_tips: "关注偏好"
+    like_title: "数码科技"
+    like_bottom: "电脑软硬件"
+    like_bg: "https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg"
+  reward_list:
+    - name: "支持者1"
+      amount: 100
+      suffix: ""
+      datatime: "2023-10-15T10:30:00Z" # 确保这是一个有效的 ISO 日期字符串
+    - name: "支持者2"
+      amount: 50
+      suffix: ""
+      datatime: "2024-01-20T14:00:00Z" # 另一个有效日期
+    - name: 天才少女
+      amount: 14
+      datatime: 2023-10-05
+      suffix:
+    - name: A筱岚
+      amount: 52
+      datatime: 2024-01-05
+      suffix:
+    - name: 白茶🎀
+      amount: 5
+      datatime: 2023-10-05
+      suffix:
+    - name: 近墨黑
+      amount: 5
+      datatime: 2023-08-02
+      suffix:
+    - name: 小豆豆
+      amount: 35
+      datatime: 2023-06-25
+      suffix:

@@ -3,7 +3,7 @@ title: 相册
 date:
 updated:
 type: "album_travel"
-comments:
+comments: false
 description:
 keywords:
 top_img: false

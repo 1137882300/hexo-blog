@@ -1,0 +1,13 @@
+- home_essay: true
+  anzhiyufont:
+    anzhiyu-icon-jike: "icon-class"
+  essay_list:
+    - content: "这是第一篇短文"
+      image: false
+      video: false
+    - content: "这是第二篇短文"
+      image: true
+      video: false
+    - content: "这是第三篇短文"
+      image: false
+      video: true

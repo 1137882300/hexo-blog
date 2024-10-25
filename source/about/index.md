@@ -3,7 +3,7 @@ title: 关于本站
 date: 2024-03-19
 updated:
 type: "about"
-comments:
+comments: false
 description:
 keywords:
 top_img: false

@@ -105,6 +105,7 @@ copy:
 # formal:
 #   name: link || icon
 social:
+   Telegram: https://t.me || anzhiyu-icon-paper-plane
    Github: https://github.com/1137882300 || anzhiyu-icon-github
 #   BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
 
@@ -858,12 +859,11 @@ aside:
     enable: true
     description: <div style="text-indent:2em">永远不要相信苦难是值得的，苦难就是苦难，它不会带来成功，也不值得追求，磨炼意志是因为苦难无法逃避。</div> # <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这有关于<b style="color:#fff">产品、设计、开发</b>相关的问题和看法，还有<b style="color:#fff">文章翻译</b>和<b style="color:#fff">分享</b>。</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">相信你可以在这里找到对你有用的<b style="color:#fff">知识</b>和<b style="color:#fff">教程</b>。</div> # 默认为站点描述
     name_link: /about
-
   card_announcement:
-    enable: true
+    enable: false
     content: <div style="text-indent:2em">如果阅读过程中遇到了问题，请及时评论或者留言，看到了会在第一时间给出回复。</div>
   card_weixin:
-    enable: true
+    enable: false
     face: https://img.funning.top/smallcats.gif
     backFace: https://img.funning.top/cool.gif
   card_recent_post:
@@ -1182,6 +1182,9 @@ nav_music:
   volume: 0.7 # 默认音量
   all_playlist: https://y.qq.com/n/ryqq/playlist/8802438608
 
+# 路径为 /music 的音乐页面默认加载的歌单 1. nav_music 2. custom
+music_page_default: nav_music
+
 # 评论匿名邮箱
 visitorMail:
   enable: true
@@ -1269,8 +1272,8 @@ rightClickMenu:
 
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 peoplecanvas:
-  enable: false
-  img: https://upload-bbs.miyoushe.com/upload/2023/09/03/125766904/ee23df8517f3c3e3efc4145658269c06_5714860933110284659.png
+  enable: true
+  img: https://upload-bbs.miyoushe.com/upload/2024/07/27/125766904/ba62475f396df9de3316a08ed9e65d86_5680958632268053399..png
 
 # 动效
 dynamicEffect:
