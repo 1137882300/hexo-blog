@@ -32,13 +32,13 @@ nav:
       item:
         - name: L站
           link: https://linux.do/
-          icon:
+          icon: https://linux.do/uploads/default/optimized/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994_2_32x32.png
         - name: RSS
           link: https://app.follow.is/
-          icon:
+          icon: https://app.follow.is/favicon.ico
         - name: X
           link: https://x.com/
-          icon:
+          icon: https://abs.twimg.com/favicons/twitter.3.ico
         - name: 今日热榜
           link: https://hot.funning.top/
           icon: https://hot.funning.top/ico/favicon.png
