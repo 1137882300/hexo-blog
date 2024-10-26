@@ -28,14 +28,17 @@ nav:
   travelling: true
   clock: false
   menu:
-    - title: 网页
+    - title: 必逛网站
       item:
-        - name: V1版本
-          link: https://v1.funning.top/ #https://www.crab666.cloudns.biz/
-          icon: /img/favicon2.png
-        - name: 3号线路
-          link: http://1137882300.github.io
-          icon: /img/favicon2.png
+        - name: L站
+          link: https://linux.do/
+          icon:
+        - name: RSS
+          link: https://app.follow.is/
+          icon:
+        - name: X
+          link: https://x.com/
+          icon:
         - name: 今日热榜
           link: https://hot.funning.top/
           icon: https://hot.funning.top/ico/favicon.png
