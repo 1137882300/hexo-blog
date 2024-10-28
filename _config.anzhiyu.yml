@@ -179,7 +179,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /img/favicon2.png
+favicon: /img/favicon-16.png
 
 # Avatar (头像)
 avatar:
@@ -506,7 +506,7 @@ footer:
       #   message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
     enable: true
-    centerImg: /img/favicon2.png
+    centerImg: /img/favicon-32.ico
     left:
        - title: email
          link: mailto:923828430@qq.com
@@ -1087,8 +1087,8 @@ pwa:
   mask_icon:
   apple_touch_icon:
   bookmark_icon:
-  favicon_32_32:
-  favicon_16_16:
+  favicon_32_32: /img/favicon-32.ico
+  favicon_16_16: /img/favicon-16.ico
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
