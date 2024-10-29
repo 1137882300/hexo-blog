@@ -30,7 +30,7 @@ nav:
   menu:
     - title: 必逛网站
       item:
-        - name: L站
+        - name: L
           link: https://linux.do/
           icon: https://pic2.58cdn.com.cn/nowater/webim/big/n_v2f6a01a9ef59741f18f90ed70bf4cf04e.webp
         - name: RSS
