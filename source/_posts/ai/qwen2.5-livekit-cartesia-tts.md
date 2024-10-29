@@ -12,7 +12,7 @@ tags:
 description: 越狱后的实时聊天小姐姐声音也更甜美了 | QWEN2.5 越狱 | livekit | Cartesia TTS
 date: 2024-10-03
 keywords: 'AI,人工智能,越狱,livekit,Cartesia TTS,tts'
-cover: https://img.crab6688.cloudns.org/file/4e9f62d1eb418ab891de3-542906f557e3b7d5fc.jpg
+cover: https://www.crab233.cloudns.biz/proxy/images.unsplash.com/photo-1729954470052-c8e03e7a6b68?q=80&w=2972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 abbrlink: 112262
 ---
 
