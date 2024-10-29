@@ -12,7 +12,7 @@ tags:
 description:  
 date: 2024-10-29
 keywords: '图床，ipfs'
-cover:  https://cdn.img2ipfs.com/ipfs/QmU2fbecRq5sFKKPXtuubjY3bHJrGbgBiMKB6Qm8N49sRf
+cover:  https://i0.img2ipfs.com/ipfs/QmU2fbecRq5sFKKPXtuubjY3bHJrGbgBiMKB6Qm8N49sRf
 top: 1
 abbrlink:  112265
 ---
