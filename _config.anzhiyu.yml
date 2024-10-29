@@ -183,7 +183,7 @@ favicon: /img/favicon-16.png
 
 # Avatar (头像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/1137882300/images@master/images/fav.jpeg
+  img: https://crab233.cloudns.biz/proxy/cdn.jsdelivr.net/gh/1137882300/images@master/images/fav.jpeg
   effect: false
 
 # Disable all banner image
@@ -843,7 +843,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://cdn.jsdelivr.net/gh/1137882300/images@master/images/fav.jpeg # 自定加载动画义头像
+  avatar: https://crab233.cloudns.biz/proxy/cdn.jsdelivr.net/gh/1137882300/images@master/images/fav.jpeg # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
