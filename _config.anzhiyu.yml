@@ -33,12 +33,12 @@ nav:
         - name: L
           link: https://linux.do/
           icon: https://pic2.58cdn.com.cn/nowater/webim/big/n_v2f6a01a9ef59741f18f90ed70bf4cf04e.webp
-        - name: RSS
-          link: https://app.follow.is/
-          icon: https://app.follow.is/favicon.ico
         - name: X
           link: https://x.com/
           icon: https://proxy.funning.filegear-sg.me/proxy/abs.twimg.com/favicons/twitter.3.ico
+        - name: RSS
+          link: https://app.follow.is/
+          icon: https://app.follow.is/favicon.ico
         - name: 今日热榜
           link: https://hot.funning.top/
           icon: https://hot.funning.top/ico/favicon.png
