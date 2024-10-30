@@ -12,7 +12,7 @@ tags:
 description:  
 date: 2024-10-22
 keywords: '翻译,谷歌翻译,谷歌'
-cover:  
+cover: https://proxy.funning.filegear-sg.me/proxy/images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=2600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 top: 1
 abbrlink:  112264
 ---
