@@ -1,0 +1,65 @@
+name: Hexo Build
+
+on:
+  push:
+    branches:
+      - main  # 或者是你的主分支名称
+      - dev
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  build:
+    name: Build Hexo Blog
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'  # 如果有主题子模块，确保一起检出
+
+      # 设置 Node.js 环境
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Hexo 建议的 Node.js 版本
+          cache: 'npm'
+
+      # 安装依赖
+      - name: Install dependencies
+        run: |
+          npm install
+          npm install hexo-cli -g
+
+      # 清理和构建
+      - name: Clean and Build
+        run: |
+          hexo clean
+          hexo generate
+
+      # 将构建输出作为制品上传
+      - name: Upload build output
+        uses: actions/upload-artifact@v3
+        with:
+          name: hexo-public
+          path: ./public
+          retention-days: 7  # 保存7天
+
+      # 打包整个项目源码
+      - name: Archive source code
+        run: |
+          tar -czf source-code.tar.gz \
+            --exclude='.git' \
+            --exclude='node_modules' \
+            --exclude='public' \
+            --exclude='.deploy_git' \
+            .
+
+      # 上传源码包
+      - name: Upload source code
+        uses: actions/upload-artifact@v3
+        with:
+          name: hexo-source
+          path: source-code.tar.gz
+          retention-days: 7  # 保存7天
