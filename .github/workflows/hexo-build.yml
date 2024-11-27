@@ -27,11 +27,12 @@ jobs:
         run: |
           npm install -g hexo-cli
           npm install
-          npm install hexo-deployer-git --save
 
       # 清理和构建
       - name: Clean and Build
         run: |
+          git config --local user.email "923828430@qq.com"
+          git config --local user.name "${{ github.actor }}"
           hexo clean
           hexo generate
           hexo deploy
