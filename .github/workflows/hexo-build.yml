@@ -8,12 +8,14 @@ on:
 
 
 # 添加这个权限配置
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
 jobs:
   build:
     name: Build Hexo Blog
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
