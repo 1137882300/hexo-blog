@@ -25,7 +25,9 @@ jobs:
 
       # 安装依赖
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install -g hexo-cli
+          npm install
 
       # 清理和构建
       - name: Clean and Build
