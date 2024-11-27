@@ -6,6 +6,11 @@ on:
       - master  # 或者是你的主分支名称
   workflow_dispatch:  # 允许手动触发
 
+
+# 添加这个权限配置
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Build Hexo Blog

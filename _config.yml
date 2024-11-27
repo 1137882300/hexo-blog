@@ -108,9 +108,14 @@ theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+# deploy:
+#   type: git
+#   repo: https://github.com/1137882300/1137882300.github.io
+#   branch: master
+
 deploy:
   type: git
-  repo: https://github.com/1137882300/1137882300.github.io
+  repo: https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/1137882300/1137882300.github.io
   branch: master
 
 
