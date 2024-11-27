@@ -10,8 +10,6 @@ on:
 # 添加这个权限配置
 permissions:
   contents: write
-  pages: write      # 添加 pages 权限
-  id-token: write  # 添加 id-token 权限
 
 jobs:
   build:
@@ -37,8 +35,6 @@ jobs:
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "923828430@qq.com"
-          git config --global credential.helper store
-          echo "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com" > ~/.git-credentials
 
       # 安装依赖
       - name: Install dependencies
@@ -48,8 +44,6 @@ jobs:
 
       # 清理和构建
       - name: Clean and Build
-        env:
-          GITHUB_REPOSITORY_URL: https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/1137882300/1137882300.github.io
         run: |
           hexo clean
           hexo generate
