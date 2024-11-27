@@ -10,6 +10,8 @@ on:
 # 添加这个权限配置
 permissions:
   contents: write
+  pages: write      # 添加 pages 权限
+  id-token: write  # 添加 id-token 权限
 
 jobs:
   build:
