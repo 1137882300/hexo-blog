@@ -27,12 +27,14 @@ jobs:
         run: |
           npm install -g hexo-cli
           npm install
+          npm install hexo-deployer-git --save
 
       # 清理和构建
       - name: Clean and Build
         run: |
           hexo clean
           hexo generate
+          hexo deploy
 
       # Upload the build output as an artifact
       - name: Upload build output
