@@ -22,6 +22,12 @@ jobs:
         with:
           node-version: 18
 
+      # 配置 Git
+      - name: Configure Git
+        run: |
+          git config --global user.name "923828430@qq.com"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
       # 安装依赖
       - name: Install dependencies
         run: |
@@ -31,8 +37,6 @@ jobs:
       # 清理和构建
       - name: Clean and Build
         run: |
-          git config --local user.email "923828430@qq.com"
-          git config --local user.name "${{ github.actor }}"
           hexo clean
           hexo generate
           hexo deploy
