@@ -44,6 +44,7 @@ jobs:
       # 清理和构建
       - name: Clean and Build
         run: |
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/1137882300/1137882300.github.io
           hexo clean
           hexo generate
           hexo deploy
