@@ -3,14 +3,10 @@ name: Hexo Build
 on:
   push:
     branches:
-      - dev  # 或者是你的主分支名称
+      - master  # 或者是你的主分支名称
   workflow_dispatch:  # 允许手动触发
 
-
-# 添加这个权限配置
-# permissions:
-#   contents: write
-
+ 
 jobs:
   build:
     name: Build Hexo Blog
@@ -49,13 +45,6 @@ jobs:
         run: |
           hexo clean
           hexo generate
-
-      # Upload the build output as an artifact
-      - name: Upload build output
-        uses: actions/upload-artifact@v4
-        with:
-          name: hexo-build-output
-          path: ./public
 
       # 部署
       - name: Deploy
