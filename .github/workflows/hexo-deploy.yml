@@ -1,4 +1,4 @@
-name: Hexo Build
+name: Hexo depoly
 
 on:
   push:
