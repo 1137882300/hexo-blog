@@ -10,8 +10,6 @@ on:
 jobs:
   build:
     name: deploy Hexo Blog
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
     steps:
@@ -43,6 +41,12 @@ jobs:
         run: |
           hexo clean
           hexo generate
+
+      # 直接使用环境变量设置 Git 凭证
+      - name: Set Git credentials
+        run: |
+          git config --global credential.helper store
+          echo "https://${{ github.actor }}:${{ secrets.DEPLOY_TOKEN }}@github.com" > ~/.git-credentials
 
     # 设置远程仓库的 URL 以使用 PAT
       - name: Set remote URL
