@@ -47,7 +47,7 @@ jobs:
     # 设置远程仓库的 URL 以使用 PAT
       - name: Set remote URL
         run: |
-          git remote set-url origin https://1137882300:${{ secrets.DEPLOY_TOKEN }}@github.com/1137882300/1137882300.github.io.git
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.DEPLOY_TOKEN }}@github.com/1137882300/1137882300.github.io.git
 
       # 部署
       - name: Deploy

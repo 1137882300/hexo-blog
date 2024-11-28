@@ -110,10 +110,11 @@ theme: anzhiyu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://1137882300:${DEPLOY_TOKEN}@github.com/1137882300/1137882300.github.io.git
+  repo: https://github.com/1137882300/1137882300.github.io
   branch: master
 
   # repo: https://github.com/1137882300/1137882300.github.io
+  # repo: https://1137882300:${DEPLOY_TOKEN}@github.com/1137882300/1137882300.github.io.git
 
 
 # deploy:
