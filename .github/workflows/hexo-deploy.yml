@@ -41,6 +41,7 @@ jobs:
         run: |
           hexo clean
           hexo generate
+          hexo algolia
 
       # 直接使用环境变量设置 Git 凭证
       - name: Set Git credentials
