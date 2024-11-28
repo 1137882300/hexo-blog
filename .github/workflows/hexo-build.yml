@@ -49,7 +49,6 @@ jobs:
         run: |
           hexo clean
           hexo generate
-          hexo deploy
 
       # Upload the build output as an artifact
       - name: Upload build output
@@ -57,3 +56,10 @@ jobs:
         with:
           name: hexo-build-output
           path: ./public
+
+      # 部署
+      - name: Deploy
+        run: hexo deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+      
