@@ -14,16 +14,12 @@ on:
 jobs:
   build:
     name: Build Hexo Blog
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
     steps:
       # 检出代码
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.DEPLOY_TOKEN }}
 
       # 设置 Node.js 环境
       - name: Set up Node.js
@@ -31,12 +27,6 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-
-      # 配置 Git
-      - name: Configure Git
-        run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "923828430@qq.com"
 
       # 安装依赖
       - name: Install dependencies
@@ -56,10 +46,4 @@ jobs:
         with:
           name: hexo-build-output
           path: ./public
-
-      # 部署
-      - name: Deploy
-        run: hexo deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
       
