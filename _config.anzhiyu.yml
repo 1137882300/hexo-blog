@@ -1,4 +1,6 @@
 menu:
+   进入主页: https://923828.xyz
+
    文章:
      归档: /archives/ || anzhiyu-icon-box-archive
      分类: /categories/ || anzhiyu-icon-shapes
@@ -1276,7 +1278,7 @@ rightClickMenu:
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 # people图片：https://assets.vviptuangou.com/ed627de9dbad37fe0c68d5f6da7b28ad7c8aa8c8.jpg
 peoplecanvas:
-  enable: true
+  enable: false
   img: https://upload-bbs.miyoushe.com/upload/2024/07/27/125766904/ba62475f396df9de3316a08ed9e65d86_5680958632268053399..png
 
 # 动效
